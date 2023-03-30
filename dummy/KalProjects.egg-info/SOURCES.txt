@@ -1,0 +1,5 @@
+setup.py
+KalProjects.egg-info/PKG-INFO
+KalProjects.egg-info/SOURCES.txt
+KalProjects.egg-info/dependency_links.txt
+KalProjects.egg-info/top_level.txt
